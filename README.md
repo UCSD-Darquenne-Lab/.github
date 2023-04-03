@@ -1,2 +1,2 @@
 # .github
-UCSD Darquenne Lab
+Introducing the UCSD Darquenne Lab
